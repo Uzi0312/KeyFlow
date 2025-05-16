@@ -42,3 +42,7 @@ Python 3.x
 keyboard library (for hotkey listening)
 
 json (built-in, for saving config)
+
+
+NOTE: KeyFlow.exe displays 'Hello Uzair' as I used an older file for creating .exe file. Download the .py scripts & create .exe file using pyinstaller after making necessary changes.
+Make sure to run -onefile command using pyinstaller.
