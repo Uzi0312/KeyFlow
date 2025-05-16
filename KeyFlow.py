@@ -11,7 +11,7 @@ class Main:
         print("5. Exit")
 
     def run():
-        print('Hello Uzair..')
+        print('Hello User..')
         HotkeyManager.run()
         while True:
             Main.show_menu()
