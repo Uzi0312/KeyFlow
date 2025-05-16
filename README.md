@@ -36,6 +36,9 @@ Activate HK Listener – Starts listening for hotkeys to trigger actions.
 
 Exit – Quits the program.
 
+What can be assigned to a hotkey?
+A hotkey can be assigned to paste texts (eg: emails, addresses, phone numbers) & to open applications (.exe files on PATH). For opening applications: create hotkey -> choose hotkey -> action: open [application name] -> save. eg: key: ctrl+shift+1 action: open notepad. 
+
 DEPENDENCIES
 Python 3.x
 
